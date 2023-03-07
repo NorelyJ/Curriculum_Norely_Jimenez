@@ -14,7 +14,8 @@ Proyectos realizados:
  - Prototipo de una App como desarrollo para la recolección de pilas.
  - Sensado de un Cubo Rubik empleando FPGA
 ## EXPERIENCIA LABORAL
- - Práctica Estudiantil en el Banco Popular en el área de ciberseguridad, administrando plataforma Macfee para automatizar procesos de host; administración de permisos de antivirus y documentación de herramientas de seguridad.  
+ - Práctica Estudiantil en el Banco Popular en el área de ciberseguridad, administrando plataforma Macfee para automatizar procesos de host; administración de permisos de antivirus y documentación de herramientas de seguridad.
+   
  
  ## HABILIDADES
  - Trabajo en equipo   - Innovación
